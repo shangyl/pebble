@@ -20,12 +20,12 @@
 		<repository>
 			<id>releases</id>
 			<name>Nexus Release Repository</name>
-			<url>http://maven.team.ipanda-tech.com/content/repositories/releases/</url>
+			<url>http://maven.team.ipanda-tech.com/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
 			<name>Nexus Snapshot Repository</name>
-			<url>http://maven.team.ipanda-tech.com/content/repositories/snapshots/</url>
+			<url>http://maven.team.ipanda-tech.com/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
